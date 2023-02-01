@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Psdsehtayemlyr
-- 👀 I’m interested in creating video games     
-- 🌱 I’m currently learning javascript, python, HTML, ruby, etc. 
+- 👀 I’m interested in developing an app to assist with accounting data.    
+- 🌱 I’m currently learning swift,javascript, python, HTML, ruby, etc. 
 - 💞️ I’m looking to collaborate on nothing public right now
 - 📫 How to reach me scaba1337@gmail.com
 
